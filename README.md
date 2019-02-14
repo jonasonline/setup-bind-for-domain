@@ -1,0 +1,1 @@
+# setup-bind-for-domain
